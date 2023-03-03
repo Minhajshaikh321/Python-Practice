@@ -1,0 +1,14 @@
+// If plus or minus button is clicked, change the cart as well as the display value
+$('.divpr').on("click", "button.minus", function() {
+    a = this.id.slice(7, );
+    cart['pr' + a] = cart['pr' + a] - 1;
+    cart['pr' + a] = Math.max(0, cart['pr' + a]);
+    document.getElementById('valpr' + a).innerHTML = cart['pr' + a];
+    updateCart(cart);
+});
+$('.divpr').on("click", "button.plus", function() {
+    a = this.id.slice(6, );
+    cart['pr' + a] = cart['pr' + a] + 1;
+    document.getElementById('valpr' + a).innerHTML = cart['pr' + a];
+    updateCart(cart);
+});

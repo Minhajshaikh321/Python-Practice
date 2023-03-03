@@ -1,0 +1,471 @@
+[
+    {
+        " \"BMI (Apr)\"": " 18.14",
+        " \"BMI (Sep)\"": " 22.02",
+        " \"Weight (Apr)\"": " 59",
+        " \"Weight (Sep)\"": " 72",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 17.44",
+        " \"BMI (Sep)\"": " 19.70",
+        " \"Weight (Apr)\"": " 86",
+        " \"Weight (Sep)\"": " 97",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.43",
+        " \"BMI (Sep)\"": " 24.09",
+        " \"Weight (Apr)\"": " 69",
+        " \"Weight (Sep)\"": " 74",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 25.57",
+        " \"BMI (Sep)\"": " 26.97",
+        " \"Weight (Apr)\"": " 88",
+        " \"Weight (Sep)\"": " 93",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.10",
+        " \"BMI (Sep)\"": " 21.51",
+        " \"Weight (Apr)\"": " 64",
+        " \"Weight (Sep)\"": " 68",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 17.40",
+        " \"BMI (Sep)\"": " 18.69",
+        " \"Weight (Apr)\"": " 55",
+        " \"Weight (Sep)\"": " 59",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.88",
+        " \"BMI (Sep)\"": " 24.24",
+        " \"Weight (Apr)\"": " 60",
+        " \"Weight (Sep)\"": " 64",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.23",
+        " \"BMI (Sep)\"": " 21.23",
+        " \"Weight (Apr)\"": " 53",
+        " \"Weight (Sep)\"": " 56",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 29.24",
+        " \"BMI (Sep)\"": " 30.26",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 70",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 21.02",
+        " \"BMI (Sep)\"": " 21.88",
+        " \"Weight (Apr)\"": " 56",
+        " \"Weight (Sep)\"": " 58",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 16.89",
+        " \"BMI (Sep)\"": " 17.63",
+        " \"Weight (Apr)\"": " 47",
+        " \"Weight (Sep)\"": " 50",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 23.85",
+        " \"BMI (Sep)\"": " 24.57",
+        " \"Weight (Apr)\"": " 69",
+        " \"Weight (Sep)\"": " 71",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.15",
+        " \"BMI (Sep)\"": " 20.68",
+        " \"Weight (Apr)\"": " 66",
+        " \"Weight (Sep)\"": " 67",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.36",
+        " \"BMI (Sep)\"": " 20.97",
+        " \"Weight (Apr)\"": " 55",
+        " \"Weight (Sep)\"": " 56",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 26.73",
+        " \"BMI (Sep)\"": " 27.30",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 70",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.88",
+        " \"BMI (Sep)\"": " 23.30",
+        " \"Weight (Apr)\"": " 60",
+        " \"Weight (Sep)\"": " 61",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.24",
+        " \"BMI (Sep)\"": " 19.48",
+        " \"Weight (Apr)\"": " 52",
+        " \"Weight (Sep)\"": " 53",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 24.69",
+        " \"BMI (Sep)\"": " 24.74",
+        " \"Weight (Apr)\"": " 92",
+        " \"Weight (Sep)\"": " 92",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.79",
+        " \"BMI (Sep)\"": " 20.69",
+        " \"Weight (Apr)\"": " 58",
+        " \"Weight (Sep)\"": " 57",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.60",
+        " \"BMI (Sep)\"": " 20.49",
+        " \"Weight (Apr)\"": " 67",
+        " \"Weight (Sep)\"": " 67",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 21.24",
+        " \"BMI (Sep)\"": " 21.09",
+        " \"Weight (Apr)\"": " 58",
+        " \"Weight (Sep)\"": " 58",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 18.53",
+        " \"BMI (Sep)\"": " 18.37",
+        " \"Weight (Apr)\"": " 50",
+        " \"Weight (Sep)\"": " 49",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.61",
+        " \"BMI (Sep)\"": " 22.40",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 68",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 28.43",
+        " \"BMI (Sep)\"": " 28.17",
+        " \"Weight (Apr)\"": " 69",
+        " \"Weight (Sep)\"": " 69",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 23.81",
+        " \"BMI (Sep)\"": " 23.60",
+        " \"Weight (Apr)\"": " 88",
+        " \"Weight (Sep)\"": " 87",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 26.78",
+        " \"BMI (Sep)\"": " 26.52",
+        " \"Weight (Apr)\"": " 82",
+        " \"Weight (Sep)\"": " 81",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.27",
+        " \"BMI (Sep)\"": " 18.89",
+        " \"Weight (Apr)\"": " 61",
+        " \"Weight (Sep)\"": " 60",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.75",
+        " \"BMI (Sep)\"": " 19.31",
+        " \"Weight (Apr)\"": " 53",
+        " \"Weight (Sep)\"": " 52",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 21.32",
+        " \"BMI (Sep)\"": " 20.96",
+        " \"Weight (Apr)\"": " 71",
+        " \"Weight (Sep)\"": " 70",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.22",
+        " \"BMI (Sep)\"": " 21.78",
+        " \"Weight (Apr)\"": " 64",
+        " \"Weight (Sep)\"": " 63",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.23",
+        " \"BMI (Sep)\"": " 19.78",
+        " \"Weight (Apr)\"": " 57",
+        " \"Weight (Sep)\"": " 56",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.82",
+        " \"BMI (Sep)\"": " 22.40",
+        " \"Weight (Apr)\"": " 69",
+        " \"Weight (Sep)\"": " 68",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 23.19",
+        " \"BMI (Sep)\"": " 22.76",
+        " \"Weight (Apr)\"": " 69",
+        " \"Weight (Sep)\"": " 68",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.69",
+        " \"BMI (Sep)\"": " 20.15",
+        " \"Weight (Apr)\"": " 56",
+        " \"Weight (Sep)\"": " 54",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.57",
+        " \"BMI (Sep)\"": " 22.14",
+        " \"Weight (Apr)\"": " 82",
+        " \"Weight (Sep)\"": " 80",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.76",
+        " \"BMI (Sep)\"": " 20.27",
+        " \"Weight (Apr)\"": " 66",
+        " \"Weight (Sep)\"": " 64",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.93",
+        " \"BMI (Sep)\"": " 22.15",
+        " \"Weight (Apr)\"": " 59",
+        " \"Weight (Sep)\"": " 57",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 24.67",
+        " \"BMI (Sep)\"": " 23.87",
+        " \"Weight (Apr)\"": " 65",
+        " \"Weight (Sep)\"": " 63",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.34",
+        " \"BMI (Sep)\"": " 18.61",
+        " \"Weight (Apr)\"": " 56",
+        " \"Weight (Sep)\"": " 54",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.58",
+        " \"BMI (Sep)\"": " 21.73",
+        " \"Weight (Apr)\"": " 58",
+        " \"Weight (Sep)\"": " 56",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.72",
+        " \"BMI (Sep)\"": " 18.93",
+        " \"Weight (Apr)\"": " 56",
+        " \"Weight (Sep)\"": " 54",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 26.72",
+        " \"BMI (Sep)\"": " 25.88",
+        " \"Weight (Apr)\"": " 75",
+        " \"Weight (Sep)\"": " 73",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 29.53",
+        " \"BMI (Sep)\"": " 28.59",
+        " \"Weight (Apr)\"": " 79",
+        " \"Weight (Sep)\"": " 77",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.79",
+        " \"BMI (Sep)\"": " 21.89",
+        " \"Weight (Apr)\"": " 66",
+        " \"Weight (Sep)\"": " 63",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.28",
+        " \"BMI (Sep)\"": " 18.31",
+        " \"Weight (Apr)\"": " 54",
+        " \"Weight (Sep)\"": " 51",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.63",
+        " \"BMI (Sep)\"": " 19.64",
+        " \"Weight (Apr)\"": " 62",
+        " \"Weight (Sep)\"": " 59",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 24.10",
+        " \"BMI (Sep)\"": " 23.02",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 65",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 21.91",
+        " \"BMI (Sep)\"": " 20.63",
+        " \"Weight (Apr)\"": " 56",
+        " \"Weight (Sep)\"": " 53",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 23.81",
+        " \"BMI (Sep)\"": " 22.61",
+        " \"Weight (Apr)\"": " 65",
+        " \"Weight (Sep)\"": " 62",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 23.42",
+        " \"BMI (Sep)\"": " 22.03",
+        " \"Weight (Apr)\"": " 58",
+        " \"Weight (Sep)\"": " 55",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 21.34",
+        " \"BMI (Sep)\"": " 20.31",
+        " \"Weight (Apr)\"": " 77",
+        " \"Weight (Sep)\"": " 74",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 21.36",
+        " \"BMI (Sep)\"": " 20.31",
+        " \"Weight (Apr)\"": " 78",
+        " \"Weight (Sep)\"": " 74",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.77",
+        " \"BMI (Sep)\"": " 19.59",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 64",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.31",
+        " \"BMI (Sep)\"": " 21.05",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 64",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 25.11",
+        " \"BMI (Sep)\"": " 23.47",
+        " \"Weight (Apr)\"": " 61",
+        " \"Weight (Sep)\"": " 57",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 24.29",
+        " \"BMI (Sep)\"": " 22.84",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 64",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 20.90",
+        " \"BMI (Sep)\"": " 19.50",
+        " \"Weight (Apr)\"": " 64",
+        " \"Weight (Sep)\"": " 60",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.83",
+        " \"BMI (Sep)\"": " 18.51",
+        " \"Weight (Apr)\"": " 68",
+        " \"Weight (Sep)\"": " 64",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 22.97",
+        " \"BMI (Sep)\"": " 21.40",
+        " \"Weight (Apr)\"": " 71",
+        " \"Weight (Sep)\"": " 66",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 19.42",
+        " \"BMI (Sep)\"": " 17.72",
+        " \"Weight (Apr)\"": " 57",
+        " \"Weight (Sep)\"": " 52",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 23.87",
+        " \"BMI (Sep)\"": " 22.26",
+        " \"Weight (Apr)\"": " 77",
+        " \"Weight (Sep)\"": " 71",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 23.81",
+        " \"BMI (Sep)\"": " 21.64",
+        " \"Weight (Apr)\"": " 60",
+        " \"Weight (Sep)\"": " 55",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 24.45",
+        " \"BMI (Sep)\"": " 22.51",
+        " \"Weight (Apr)\"": " 71",
+        " \"Weight (Sep)\"": " 65",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 25.80",
+        " \"BMI (Sep)\"": " 23.69",
+        " \"Weight (Apr)\"": " 82",
+        " \"Weight (Sep)\"": " 75",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 17.74",
+        " \"BMI (Sep)\"": " 15.08",
+        " \"Weight (Apr)\"": " 49",
+        " \"Weight (Sep)\"": " 42",
+        "Sex": "F"
+    },
+    {
+        " \"BMI (Apr)\"": " 25.33",
+        " \"BMI (Sep)\"": " 22.64",
+        " \"Weight (Apr)\"": " 82",
+        " \"Weight (Sep)\"": " 74",
+        "Sex": "M"
+    },
+    {
+        " \"BMI (Apr)\"": " 40.86",
+        " \"BMI (Sep)\"": " 36.57",
+        " \"Weight (Apr)\"": " 105",
+        " \"Weight (Sep)\"": " 94",
+        "Sex": "M"
+    }
+]
