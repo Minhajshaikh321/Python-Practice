@@ -1,0 +1,76 @@
+In Python, **shallow copy** and **deep copy** refer to two different ways of copying objects. They determine how the copied object behaves with respect to the original object, especially when it comes to nested objects (like lists containing other lists, or dictionaries containing other dictionaries).
+
+### 1. Shallow Copy
+
+A **shallow copy** creates a new object, but it inserts references into it to the objects found in the original. Therefore, a shallow copy does not create copies of nested objects; instead, it copies their references. This means that changes made to nested objects in the copied object will reflect in the original object.
+
+#### Example of Shallow Copy
+
+You can create a shallow copy using the `copy()` method of a list or the `copy` module's `copy()` function.
+
+```python
+import copy
+
+# Original list with nested objects
+original_list = [1, 2, [3, 4]]
+
+# Create a shallow copy
+shallow_copied_list = copy.copy(original_list)
+
+# Modify the nested object in the copied list
+shallow_copied_list[2][0] = 'Changed'
+
+# Output the original and copied lists
+print("Original list:", original_list)  # Output: [1, 2, ['Changed', 4]]
+print("Shallow copied list:", shallow_copied_list)  # Output: [1, 2, ['Changed', 4]]
+```
+
+### Explanation:
+
+- `original_list` contains a nested list `[3, 4]`.
+- When we create a shallow copy using `copy.copy()`, both `original_list` and `shallow_copied_list` reference the same nested list.
+- Changing an element of the nested list in the copied list affects the original list because both lists share the same reference to the nested list.
+
+### 2. Deep Copy
+
+A **deep copy** creates a new object and recursively copies all objects found in the original, meaning that nested objects are also copied rather than referenced. This way, the original and copied objects are completely independent.
+
+#### Example of Deep Copy
+
+You can create a deep copy using the `copy` module's `deepcopy()` function.
+
+```python
+import copy
+
+# Original list with nested objects
+original_list = [1, 2, [3, 4]]
+
+# Create a deep copy
+deep_copied_list = copy.deepcopy(original_list)
+
+# Modify the nested object in the copied list
+deep_copied_list[2][0] = 'Changed'
+
+# Output the original and copied lists
+print("Original list:", original_list)  # Output: [1, 2, [3, 4]]
+print("Deep copied list:", deep_copied_list)  # Output: [1, 2, ['Changed', 4]]
+```
+
+### Explanation:
+
+- Here, `deep_copied_list` is created using `copy.deepcopy()`, which recursively copies all elements.
+- Modifying the nested list in `deep_copied_list` does not affect `original_list` because they are now independent copies.
+
+### Summary of Differences
+
+| Feature                | Shallow Copy                         | Deep Copy                               |
+|------------------------|--------------------------------------|-----------------------------------------|
+| **Reference Behavior**  | Copies references to nested objects  | Copies all objects recursively          |
+| **Memory**             | Uses less memory (shares references) | Uses more memory (creates new objects) |
+| **Independence**       | Changes to nested objects affect the original | No effect on the original from changes to the copy |
+| **Method**             | `copy.copy()` or list's `copy()`   | `copy.deepcopy()`                       |
+
+### Conclusion
+
+- Use a **shallow copy** when you want a new object, but the nested objects can remain shared (e.g., for read-only purposes).
+- Use a **deep copy** when you need a completely independent copy of the original object, including all nested objects.
